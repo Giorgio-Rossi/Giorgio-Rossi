@@ -1,3 +1,28 @@
+<h1>Hi, my name is Giorgio!👋</h1>
+<b>About me</b>
+
+<ul>
+  <li>18 yo</li>
+  <li>Born Italy</li>
+  <li>Living in Italy, IT</li>
+  <li>studying</li>
+</ul>
+
+
+<b>Where to found me</b>
+<ul>
+  <a href=""><li>Twitter</li></a>
+  <a href=""><li>Instagram</li></a>
+  <a href=""><li>Email</li></a>
+  <a href=""><li>Telegram</li></a>
+</ul>
+
+
+<b>Im here for</b>
+
+
+
+
 - 👋 Hi, I’m @Giorgio-Rossi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Kotlin Language
