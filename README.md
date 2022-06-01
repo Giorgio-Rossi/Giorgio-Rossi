@@ -29,7 +29,7 @@
 
 <b>How to contact me</b>
 <ul>
- <li>Mail: giorgio04.rossi@gmail.com</li>
+ <li><a href="mailto:giorgio04.rossi@gmail.com">Mail:</a> giorgio04.rossi@gmail.com</li>
  <li>Telegram: @gio_rossii</li>
 </ul>
 
