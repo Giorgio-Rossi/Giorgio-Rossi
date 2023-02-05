@@ -12,7 +12,6 @@
 
 <b>Where to found me</b>
 <ul>
-  <a href="https://twitter.com/giorgio_rossi_"><li>Twitter</li></a>
   <a href="https://www.instagram.com/gio_rossii_/"><li>Instagram</li></a>
   <!--- <a href=""><li>Email</li></a> --->
   <a href=""><li>Telegram</li></a>  
