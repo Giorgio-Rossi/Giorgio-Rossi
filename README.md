@@ -22,7 +22,6 @@
   <li>Learn more</li>
   <li>Be Mentored</li>
   <li>Talk Tech</li>
-  <li>Work hard</li>
 </ul>
 
 
