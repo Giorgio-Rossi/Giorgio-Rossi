@@ -2,19 +2,18 @@
 <b>About me</b>
 
 <ul>
-  <li>18 yo</li>
-  <li>Born Italy</li>
+  <li>20 yo</li>
+  <li>Born in Italy</li>
   <li>Living in Italy, IT</li>
-  <li>Studying</li>
-  <li>Newbie in Code World</li>
+  <li>Working</li>
+  <li>Still studying</li>
 </ul>
 
 
 <b>Where to found me</b>
 <ul>
   <a href="https://www.instagram.com/gio_rossii_/"><li>Instagram</li></a>
-  <!--- <a href=""><li>Email</li></a> --->
-  <a href=""><li>Telegram</li></a>  
+  <a href="https://https://www.linkedin.com/in/rossi-giorgio/"><li>Linkedin</li></a>  
 </ul>
 
 <b>Im here for</b>
@@ -24,11 +23,16 @@
   <li>Talk Tech</li>
 </ul>
 
+<b>Interested in</b>
+<ul>
+  <li>Studying new topic</li>
+  <li>Working on a new projects</li>
+</ul>
+
 
 <b>How to contact me</b>
 <ul>
  <li><a href="mailto:giorgio04.rossi@gmail.com">Mail:</a> giorgio04.rossi@gmail.com</li>
- <li>Telegram: @gio_rossii</li>
 </ul>
 
 <!---
