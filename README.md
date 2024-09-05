@@ -1,6 +1,7 @@
-<h1>Hi, my name is Giorgio!👋</h1>
-<b>About me</b>
+<h1>Hi, there!👋</h1>
+<b>I'm Giorgio and...</b>
 
+<b>About me</b>
 <ul>
   <li>20 yo</li>
   <li>Born in Italy</li>
