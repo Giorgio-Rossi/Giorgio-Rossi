@@ -16,7 +16,7 @@
 --->
 <b>🌱 Im here for...</b>
 <ul>
-    <li>Devlop new project</li>
+    <li>Develop new project</li>
     <li>Be Mentored</li>
     <li>Be more creative</li>
 </ul>
