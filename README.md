@@ -36,8 +36,10 @@
  <li><a href="mailto:giorgio04.rossi@gmail.com">Mail:</a> giorgio04.rossi@gmail.com</li>
 </ul>
 </br>
+<!---
 <b>Workin on</b><br>
 <b>Something a little too big...✨</b>
+--->
 
 <!---
 - 👋 Hi, I’m @Giorgio-Rossi
