@@ -1,7 +1,7 @@
 <h1>Hi, there!👋</h1>
 <p>I'm Giorgio, a software developer based in Italy.</p>
 </br>
-<p>I like to desing and build efficient Web-app. I aim to build scalable and efficient software while providing engaging and flawless user experiences. To me, everything should be on the cloud.</p>
+<p>I like to design and build efficient Web-app. I aim to build scalable and efficient software while providing engaging and flawless user experiences. To me, everything should be on the cloud.</p>
 <p>Outside of work my interest is to improve my technical skills by studying new program languages and new tools that can improve my work processes. I also build many side projects (most of them are in private repositories).</p>
 </br>
 <!---
